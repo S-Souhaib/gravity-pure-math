@@ -84,7 +84,7 @@ This work is public domain. I am an independent Algerian researcher. I charge no
 
 If you find value in this work and wish to support independent research:
 
-**Bitcoin:** `[Your BTC Address]`
+**Bitcoin:** `[bc1pf3m9crmj7zl6sr433tx595u63nv7086snts4uxahf6peangejs2se548af]`
 
 No obligations. The truth cannot be sold. It can only be shared.
 
